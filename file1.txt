@@ -3,19 +3,19 @@ hello this is abhishek rohit kuniyal
 git config --global user.email "email"
 git config -- global user.name " username"
 
-
-
 git init 
 git add <filename>
 git add .
 
-
 git -m commit "message"
 git status 
-
 
 git log --oneline
 
 git ingnore 
 
 git keep 
+
+git diff
+ 
+ git diff --staged
