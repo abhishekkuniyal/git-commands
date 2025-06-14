@@ -1,1 +1,15 @@
 hello this is abhishek rohit kuniyal
+
+git config --global user.email ""
+git config -- global user.name""
+
+
+
+git init 
+git add <filename>
+git add .
+
+git status 
+
+git -m commit "message"
+
