@@ -19,3 +19,10 @@ git keep
 git diff
  
  git diff --staged
+
+
+git stash list
+
+
+git tag
+
