@@ -26,3 +26,14 @@ git stash list
 
 git tag
 
+git switch "branchname"
+
+git branch
+
+git checkout "brachname"
+
+
+git merge 
+
+git 
+
