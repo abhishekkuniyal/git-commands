@@ -15,3 +15,7 @@ git status
 
 
 git log --oneline
+
+git ingnore 
+
+git keep 
