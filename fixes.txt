@@ -1,6 +1,0 @@
-i am a fix file which will be used to fix the bug
-
-
-done with bug fixes
-
-ok
