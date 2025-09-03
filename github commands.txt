@@ -32,6 +32,8 @@ git branch
 
 git checkout "brachname"
 
+for conflicts:-  git commit -m "Merge remote-tracking branch 'origin/main'"
+
 
 git merge 
 
